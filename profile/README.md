@@ -8,13 +8,13 @@ Combinations is a brain-teasing puzzle game where players must merge matching ti
 
 📚 You May Also Like:
 
-2048 Game
+- [2048 Game](https://2048game.work/)
 
-Tiles Game
+- [Tiles Game](https://tilesgame.cc/)
 
-Squaredle
+- [Squaredle](https://squaredle.work/)
 
-Connections Unlimited
+- [Connections Unlimited](https://connectionsunlimited.me/)
 
 ✨ Key Features of Combinations
 
